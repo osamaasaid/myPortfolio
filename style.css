@@ -1,19 +1,66 @@
-.name{
+a {
+  text-decoration: none;
+}
+
+.logo {
+/*  background-color: grey;
+*/
+margin-left: 40px;
+}
+
+.name {
+  /*text-align: center;*/
+  font-family: Raleway;
+}
+
+.mini {
   text-align: center;
   font-family: Raleway;
 }
 
-.mini{
+.short {
   text-align: center;
+  font-family: monospace;
 }
 
-.short{
-  text-align: center;
+.blocks {
+  margin: 60px;
+  background-color: grey;
+  padding: 20px;
 }
 
-.blocks{
+.header{
   margin: 20px;
 }
+
+.icon1 {
+    padding-right: 10px;
+}
+
+.icon2 {
+    padding-left: 10px;
+}
+
+#bottom {
+  position: bottom;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: white;
+  text-align: center;
+}
+
+#footer {
+  text-align: center;
+}
+
+#contact {
+  text-align: center;
+  font-family: Raleway;
+}
+
+
 
 /*#info1{
   border:1px solid black;
