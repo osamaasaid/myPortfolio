@@ -1,6 +1,6 @@
 console.log("hello!");
 $(document).ready(function(){
-  console.log('ready');
+  console.log('jquery running');
   $('.name').fadeOut(400).fadeIn(5000);
 
     });
