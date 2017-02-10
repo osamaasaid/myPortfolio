@@ -1,0 +1,16 @@
+.name{
+  text-align: center;
+  font-family: Raleway;
+}
+
+#info1{
+  float: left;
+  width: 40%;
+  border:1px solid black;
+}
+
+#info2{
+  float: right;
+  width: 40%;
+  border:1px solid black;
+}
