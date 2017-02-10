@@ -3,14 +3,22 @@
   font-family: Raleway;
 }
 
-#info1{
-  float: left;
-  width: 40%;
+.mini{
+  text-align: center;
+}
+
+.short{
+  text-align: center;
+}
+
+.blocks{
+  margin: 20px;
+}
+
+/*#info1{
   border:1px solid black;
 }
 
 #info2{
-  float: right;
-  width: 40%;
   border:1px solid black;
-}
+}*/
