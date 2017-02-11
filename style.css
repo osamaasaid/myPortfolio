@@ -2,9 +2,12 @@ a {
   text-decoration: none;
 }
 
+nav {
+  position: top;
+  margin-bottom: 30px;
+}
+
 .logo {
-/*  background-color: grey;
-*/
 margin-left: 40px;
 }
 
