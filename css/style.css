@@ -31,6 +31,15 @@ p {
   margin: 40px;
 }
 
+.name > h3 > a {
+  color:  #2AAFE6;
+  text-decoration: none !important;
+}
+
+.name > h3 > a:active {
+  color: #2AAFE6;
+}
+
 .scshot {
   text-align: center;
   margin-bottom: 5rem;
@@ -81,14 +90,25 @@ li {
 }
 
 
-a {
+.samplehead > a, .back > a {
 text-decoration: none !important;
 color: inherit;
 font-size: 2rem;
 font-style: none;
 }
 
-a:hover {
+.samplehead > a:hover, .back > a:hover {
   color: #000000;
 }
+
+.back {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.back > a {
+  font-family:  'quicksand', sans-serif;
+}
+
+
 
