@@ -117,5 +117,68 @@ font-style: none;
   font-family:  'quicksand', sans-serif;
 }
 
+@media (min-width: 375px) {
 
+  ul {
+    margin: 0 auto;
+    padding-bottom: 20px;
+  }
 
+  li {
+    margin: 1rem;
+    display: inline;
+    text-align: center;
+  }
+
+  .back > a {
+    font-size: 1rem;
+   }
+
+  .name > h3 {
+    font-size: 1rem;
+  }
+   .content > p {
+    font-size: 1rem;
+   }
+
+   i {
+    margin: 1rem;
+   }
+}
+
+@media (min-width: 320px) {
+
+   ul {
+    margin: 0 auto;
+    padding-bottom: 20px;
+  }
+
+  li {
+    margin: 5px;
+    display: inline;
+    text-align: center;
+  }
+
+  .back > a {
+    font-size: 1rem;
+   }
+
+  .name > h3 {
+    font-size: 1rem;
+  }
+   .content > p {
+    font-size: 1rem;
+   }
+
+}
+
+@media (min-width: 414px) {
+
+  .name > h3 {
+    font-size: 24px;
+  }
+
+   .content > p {
+    font-size: 20px;
+   }
+}
