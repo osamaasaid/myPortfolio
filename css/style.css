@@ -33,8 +33,8 @@ p {
 }
 
 .content {
-  margin-top: 10rem;
-  margin-bottom: 10rem;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
 }
 
 
@@ -120,14 +120,8 @@ font-style: none;
 @media (min-width: 375px) {
 
   ul {
-    margin: 0 auto;
-    padding-bottom: 20px;
-  }
-
-  li {
-    margin: 1rem;
+    padding: 0;
     display: inline;
-    text-align: center;
   }
 
   .back > a {
@@ -149,8 +143,8 @@ font-style: none;
 @media (min-width: 320px) {
 
    ul {
-    margin: 0 auto;
-    padding-bottom: 20px;
+    padding: 0;
+    display: inline;
   }
 
   li {
