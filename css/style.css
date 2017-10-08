@@ -1,6 +1,6 @@
 body {
   margin: 0 auto;
-  background-color: white;
+  background-color: #336190;
   width: 100%;
 }
 
@@ -20,6 +20,7 @@ i {
 
 p {
   color: #2AAFE6;
+  font-size: 1rem;
   margin-top: 10px;
   font-family: 'Alegreya Sans', sans-serif;
 }
@@ -30,6 +31,12 @@ p {
   text-align: center;
   margin: 40px;
 }
+
+.content {
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+}
+
 
 .name > h3 > a {
   color:  #2AAFE6;
@@ -61,7 +68,7 @@ hr {
 }
 
 h1 {
-  font-size: 80px;
+  font-size: 3rem;
   margin-bottom: 20px;
 }
 
@@ -93,7 +100,7 @@ li {
 .samplehead > a, .back > a {
 text-decoration: none !important;
 color: inherit;
-font-size: 2rem;
+font-size: 3rem;
 font-style: none;
 }
 
