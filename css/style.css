@@ -73,7 +73,7 @@ h1 {
   margin-bottom: 20px;
 }
 
-.desc {
+.desc > p {
   color: black;
   text-align: center;
   font-family: 'quicksand', sans-serif;
