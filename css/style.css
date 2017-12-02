@@ -1,6 +1,6 @@
 body {
   margin: 0 auto;
-  background-color: #ffffff;
+  background-color: #9C9C9C;
   width: 100%;
 }
 
@@ -14,7 +14,7 @@ body {
 }
 
 i {
-  color:#2AAFE6;
+  color:#08019C;
   font-family: 'quicksand', sans-serif;
 }
 
@@ -28,7 +28,7 @@ p {
 
 .name {
   font-family: 'quicksand', sans-serif;
-  color: #2AAFE6;
+  color: #08019C;
   text-align: center;
   margin: 40px;
 }
@@ -40,12 +40,12 @@ p {
 
 
 .name > h3 > a {
-  color:  #2AAFE6;
+  color:  #08019C;
   text-decoration: none !important;
 }
 
 .name > h3 > a:active {
-  color: #2AAFE6;
+  color: #08019C;
 }
 
 .scshot {
@@ -82,7 +82,7 @@ h1 {
 h3 {
   text-align: center;
   font-family: 'quicksand', sans-serif;
-  color: #2AAFE6;
+  color: #08019C;
   margin-bottom: 20px;
 }
 
