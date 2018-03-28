@@ -1,16 +1,14 @@
 body {
   margin: 0 auto;
-  background-color: rgb(215, 227, 250);
+  background-color: rgb(95, 145, 238);
   width: 100%;
-  background-image: url("./images/pasta.png");
-  padding: 2em;
 }
 
 
 .container {
   width: 75%;
+  height: auto;
   margin: 0 auto;
-  background-color: white;
   padding: 2em;
   text-align: center;
 }
@@ -21,7 +19,7 @@ i {
 }
 
 p {
-  color: #000000;
+  color: white;
   font-size: 1rem;
   margin-top: 10px;
   text-align: left;
@@ -32,7 +30,11 @@ p {
   font-family: 'quicksand', sans-serif;
   color: rgb(7, 7, 7);;
   text-align: center;
-  margin: 40px;
+  margin: 0;
+}
+
+.nav {
+  float: right;
 }
 
 .content {
@@ -76,7 +78,7 @@ h1 {
 }
 
 .desc > p {
-  color: black;
+  color: white;
   text-align: center;
   font-family: 'quicksand', sans-serif;
 }
@@ -118,6 +120,10 @@ text-align: center;
 
 .back > a {
   font-family:  'quicksand', sans-serif;
+}
+
+#note {
+  font-style: italic;
 }
 
 @media (min-width: 375px) {
@@ -175,7 +181,7 @@ text-align: center;
 
   .name > h1 {
     font-size: 22px;
-    text-align: center;
+    text-align: left;
   }
    .content > p {
     font-size: 1rem;
